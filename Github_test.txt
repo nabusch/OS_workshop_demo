@@ -1,1 +1,5 @@
-open_science = false;
+open_science = true;
+
+Ist Open Science sinnvoll? 
+
+nOW THIS IS A COMPLETELY NEW VERSION WITH MORE STUFF:
