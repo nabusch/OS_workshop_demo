@@ -1,5 +1,3 @@
-open_science = true;
+das ist jetzt der test mit wanja.
 
-Ist Open Science sinnvoll? 
-
-nOW THIS IS A COMPLETELY NEW VERSION WITH MORE STUFF:
+unser lab ist in buxtehude.
